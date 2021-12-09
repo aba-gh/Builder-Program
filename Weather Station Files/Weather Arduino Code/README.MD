@@ -1,0 +1,1 @@
+Open this file in your Arduino software and upload the code to your rak chip. Don't forget to install the necessary libraries and add your Helium keys to the file on lines 71-73. Check the weather station guide for further details and instructions.
