@@ -1,4 +1,4 @@
-# Builders-Program
+# Builder-Program
 Mycelium's Official Repository for our Builders Program
 
 This is where we store all of our files for our projects within the Builders Program. 
